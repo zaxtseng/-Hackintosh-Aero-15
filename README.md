@@ -1,6 +1,9 @@
 # -Hackintosh-Aero-15
  Hackintosh-Aero-15 v8
 
+# MacOS版本
+10.13.6(因为此版本支持独显驱动)
+
 # 正常的
 显卡驱动  
 声卡驱动  
